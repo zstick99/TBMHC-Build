@@ -1,0 +1,65 @@
+-STAGES-
+
+BATTLEFIELD
+Swamp Battlefield by Kirbeast, purple edits by Z-stick
+
+
+DREAMLAND
+Shades and other model edits by Finger Stripes
+
+
+FINAL DESTINATION
+Synthwave Final Destination
+
+
+FRIGATE HUSK
+Hyrule Meadows by Motobug and mawwwk
+
+
+LUIGI'S MANSION
+L alt - Delfino's Secret Luigi's Mansion by mawwwk
+
+
+POKEMON STADIUM 2
+Colorado Stadium by Z-stick, original Colorado Stadium by Blues (some textures edited from the original)
+
+
+SMASHVILLE
+Woodfallville by t_Mistico_t, villager shades by Finger Stripes, other edits by Z-stick
+
+
+TEMPLE OF TIME
+Purple edits by Z-stick
+
+
+YOSHI'S ISLAND
+Bi flag flowers by Z-stick
+
+
+-MENUS-
+
+CSS
+By Z-stick
+edited MenSelchrPanel_TopN and MenSelchrPanel_TopN__0 for background imports by ilikepizza107
+
+
+SSS
+By Z-stick
+Character portraits by mawwwk
+L alt preview template by Yohan
+
+
+RESULTS SCREEN
+Project M Chill Room results screen by Ryztiq
+
+
+BOOT SCREEN
+TBMHC boot screen by Z-stick
+
+
+-CODES-
+Stagelist codes by ilikepizza107
+Color changing port ui by ilikepizza107
+RUN IT BACK replaces NO CONTEST by ilikepizza107
+Player ID instead of character ID used on results screen by Desi
+Masquerade.asm (for stage select character portraits) by QuickLava
