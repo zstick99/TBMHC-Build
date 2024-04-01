@@ -23,20 +23,22 @@ hat edits for skins by ilikepizza107
 
 
 -FOX-
-09 - Star's Fox red
-10 - Star's Fox blue
-11 - Star's Fox green
+09 - Silver Fox by Baka
+10 - Star's Fox blue by ilikepizza107
+11 - Star's Fox green by ilikepizza107
 26 - Thalia's Fox by ilikepizza107
 
 
 -CAPTAIN FALCON-
-07 - Anday's Falcon by Finger Stripes
-35 - Stude's Falcon
+07 - Anday's Falcon by FingerStripes
+08 - shad Captain Falcon by influenza
+35 - Stude's Falcon by Motobug
+36 - SoulOfficer Falcon by influenza
 
 
 -Bowser-
 11 - Leo's Bowser by SkratchPost
-25 - Scion's Bowser by Finger Stripes
+25 - Scion's Bowser by FingerStripes
 
 
 -ZELDA-
@@ -106,22 +108,22 @@ Z alt - Red Cap Marth by Mazux, DangerInTheHood, and thegrinch
 26 - Che's Ganon by DHS7
 40 - Joey's Ganon by DHS7
 55 - Potato's Ganon
-36 - Ford$ Ganon
+36 - Ford$ Ganon by FingerStripes
 
 
 -META KNIGHT-
-40 - Krump's MK
+40 - Watermelon MK by PMDT
 06 - Lily Vaporeon's MK by Lily Vaporeon, Stutter Step Steven, and Midnight Blue
 07 - Sipmastah's MK
 
 
 -ZERO SUIT SAMUS-
 40 - Arcana's ZSS by ilikepizza107
-41 - Gothi's ZSS by Finger Stripes
+41 - Gothi's ZSS by FingerStripes
 
 
 -OLIMAR-
-40 - CP9's Olimar by Finger Stripes, fixed render crop by Motobug
+40 - CP9's Olimar by FingerStripes, fixed render crop by Motobug
 41 - Bees' Olimar
 
 
@@ -135,7 +137,7 @@ Z alt - Red Cap Marth by Mazux, DangerInTheHood, and thegrinch
 41 - Star Blue Lucas by Star, SJS
 42 - Star Green Lucas by Star, SJS
 45 - Shadowhawke Lucas by SJS
-fitlucas.pac edits by ilikepizza107
+fitlucas.pac edits by Star, ilikepizza107
 
 
 -DIDDY KONG-
@@ -149,7 +151,7 @@ fitlucas.pac edits by ilikepizza107
 
 -SQUIRTLE-
 10 - Whoratio's Squirtle by Z-stick and ilikepizza107
-25 - Cloudburst Squirtle by Finger Stripes
+25 - Cloudburst Squirtle by FingerStripes
 
 
 -IVYSAUR-
@@ -158,7 +160,7 @@ R alt - PL's Ivy by Autumn
 
 
 -DEDEDE-
-11 - Marshall's DDD by Finger Stripes
+11 - Marshall's DDD by FingerStripes
 
 
 -LUCARIO-
@@ -199,15 +201,15 @@ R alt - Z-stick's puff by Z-stick
 
 -KNUCKLES-
 04 - hamyojos’ Knuckles by Autumn
-12 - Samantha's Knuckles skin by DHS7
+12 - Samantha's Knuckles by DHS7
 40 - Armored Knuckles
-41 - Motobug's Knuckles
+41 - Motobug's Knuckles by Motobug
 R alt - Potato's Knuckles
 
 
 -WOLF-
-07 - Cloudburst's Wolf by Finger Stripes
-06 - SpookyJ's Wolf by Z-stickd
+07 - Cloudburst's Wolf by FingerStripes
+06 - SpookyJ's Wolf by Z-stick
 
 
 -SNAKE-
