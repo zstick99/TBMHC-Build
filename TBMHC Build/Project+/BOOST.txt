@@ -5,6 +5,13 @@
 op cmplwi r0, 0x30 @ $8018CFC4
 op blt- 0x34	   @ $8018CFC8
 
+###############################################
+NO CONTEST -> RUN IT BACK [ilikepizza107]
+###############################################
+string "RUN " @ $8045B5C8
+string "IT B" @ $8045B5CC
+string "ACK " @ $8045B5D0
+
 .include Source/LegacyTE/Replays.asm
 
 .include Source/Project+/StageFiles.asm
