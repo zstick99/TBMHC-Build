@@ -5,15 +5,15 @@ Swamp Battlefield by Kirbeast, purple edits by Z-stick
 
 
 DREAMLAND
-Shades and other model edits by Finger Stripes
+Shades and other model edits by FingerStripes
 
 
 FINAL DESTINATION
-Synthwave Final Destination
+Summer Drivin' by Nezha and Ryztiq
 
 
 FRIGATE HUSK
-Hyrule Meadows by Motobug and mawwwk
+L alt - Hyrule Meadows by Motobug and mawwwk, red rocks edits by Z-stick
 
 
 LUIGI'S MANSION
@@ -25,7 +25,7 @@ Colorado Stadium by Z-stick, original Colorado Stadium by Blues (some textures e
 
 
 SMASHVILLE
-Woodfallville by t_Mistico_t, villager shades by Finger Stripes, other edits by Z-stick
+Woodfallville by t_Mistico_t, villager shades by FingerStripes, other edits by Z-stick
 
 
 TEMPLE OF TIME
@@ -36,17 +36,12 @@ YOSHI'S ISLAND
 Bi flag flowers by Z-stick
 
 
+
 -MENUS-
 
-CSS
-By Z-stick
-edited MenSelchrPanel_TopN and MenSelchrPanel_TopN__0 for background imports by ilikepizza107
-
-
-SSS
-By Z-stick
-Character portraits by mawwwk
-L alt preview template by Yohan
+MENU
+CSS and SSS By Z-stick and ilikepizza107
+L stage alt preview template by Yohan
 
 
 RESULTS SCREEN
@@ -59,7 +54,7 @@ TBMHC boot screen by Z-stick
 
 -CODES-
 Stagelist codes by ilikepizza107
-Color changing port ui by ilikepizza107
+Port UI color changer by ilikepizza107
 RUN IT BACK replaces NO CONTEST by ilikepizza107
-Player ID instead of character ID used on results screen by Desi
 Masquerade.asm (for stage select character portraits) by QuickLava
+Other code edits by ilikepizza107
