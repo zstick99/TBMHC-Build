@@ -1,6 +1,7 @@
 Song choices by [fleabag] and Z-Stick
 BRSTMs by Z-Stick unless specified
 Build Builders' Build by Motobug, updated and further optimised by Z-stick
+* = new song added in 1.2
 
 
 -MENU-
@@ -9,13 +10,22 @@ m2 - Slackers (Donut County)
 m3 - Breaking Ground (Donut County)
 m4 - Holes (Donut County)
 m5 - dead0ne - alone in a crowd
+*m6 - Beautiful Lie (Danganronpa V3)
+*m7 - Clocktowers Beneath The Sea (A Hat in Time)
+*m8 - I Know That Feel (Kevin Villecco)
+*m9 - Super Mario World Game Over (HephestosMusic)
+*m10 - Hip Shop (DELTARUNE)
+*m11 - Capsule Obtain (DBZ Budokai 3)
+*m12 - Fear the Reaper (Batman Rise of Sin Tzu)
 
 
 -POKEMON STADIUM 2-
 p1 - Dr. STEWART (F-ZERO GX)
 p2 - For The Glory (F-ZERO GX)
-p3 - Osc-Sync Carnival (F-ZERO GX)
+p3 - Osc-Sync Carnival (F-ZERO GX) - BRSTM credit: P+DT
 p4 - Infinite Blue (F-Zero GX)
+*p5 - Tulip Festival (Tekken Tag Tournament 2) - BRSTM credit: ilikepizza107
+*p6 - Neo City (Tekken 8)
 
 
 -BATTLEFIELD-
@@ -23,6 +33,8 @@ b1 - The true mirror (Baten Kaitos)
 b2 - Glowing cloud (Baten Kaitos)
 b3 - Survival from The Force (Baten Kaitos)
 b4 - The valedictory elegy (Baten Kaitos II)
+*b5 - Battlefield - Storm (Etrian Odyssey IV) - BRSTM credit: ilikepizza107
+*b6 - Battlefield - Faith Is My Pillar (Etrian Odyssey IV)
 
 
 -SMASHVILLE-
@@ -30,13 +42,15 @@ s1 - Classroom (Mario Strikers)
 s2 - Crystal Canyon (Mario Strikers)
 s3 - Life Goes On (Persona 5)
 s4 - Steam Gardens (Mario Odessey)
+*s5 - Stickerbrush Symphony (Game&Sound Cover)
+*s6 - Redial (Bomberman Heroes) - BRSTM credit: P+DT
 
 
 -TEMPLE OF TIME-
 t1 - Kygo Ft. Conrad - Firestone (Julyan Dubson Remix) - BRSTM credit: Alex
-t2 - Gear Getaway (DKC Returns)
-t3 - Mangrove Cove (DKC Tropical Freeze)
-t4 - Wing Ding (Hut) (DKC Tropical Freeze)
+t2 - Gear Getaway (Donkey Kong Country Returns)
+t3 - Mangrove Cove (Donkey Kong Country Tropical Freeze)
+t4 - Wing Ding (Hut) (Donkey Kong Country Tropical Freeze)
 
 
 -LUIGI'S MANSION-
@@ -44,6 +58,7 @@ l1 - Rhythmortis (Crypt of the NecroDancer)
 l2 - Good for Health, Bad for Education (VA-11 HALL-A) - BRSTM credit: ilikepizza107
 l3 - Black Winter Night Sky (Tekken 2)
 l4 - Tombstone Arizona (Pizza Tower)
+*l5 - The World Revolving (DELTARUNE)
 
 
 -YOSHI'S ISLAND-
@@ -76,6 +91,10 @@ x4 - Top Bomb (SSX Tricky)
 
 -DELFINO'S SECRET- (Luigi's Mansion L alt)
 t1 - Kygo Ft. Conrad - Firestone (Julyan Dubson Remix) - BRSTM credit: Alex
+
+
+-GOLDEN TEMPLE-
+*s5 - Stickerbrush Symphony (Game&Sound Cover)
 
 
 -RESULTS SCREEN-
